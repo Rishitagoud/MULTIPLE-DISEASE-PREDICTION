@@ -1,4 +1,8 @@
+# Multiple Disease Prediction using Machine Learning
 
+This project is a web app built with **Streamlit** to predict diseases such as Heart Disease, and Diabetes
+## 🚀 Live Demo
+👉 [Click here to try the app] (https://multiple-disease-prediction-7nb452ntvchdknzukmmxcu.streamlit.app/)
 
 ## Table of Contents
 
@@ -50,6 +54,5 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/rkstu/MultiDisease_Prediction-using-Machine-Learning.git
-  
+   git clone https://github.com/Rishitagoud/MULTIPLE-DISEASE-PREDICTION.git
 
